@@ -1,0 +1,39 @@
+REACT-NATIVE FUNDAMENTAL
+-----------------------------------------
+I. INSTALL & RUNING
+  - download expo go (ANDROID)
+  - npx create-expo-app my-app
+  - cd my-app 
+  - npm start (Running App)
+  - open expo go on android and scan the url
+
+2. COMPONENT
+3. EMBEDDING EXPRESSION IN JSX
+4. EVENT
+5. PASSING DATA USING PROPS
+6. STATE
+7. STYLING IN REACT NATIVE
+8. LIST ON REACT NATIVE
+9. FRAMEWORK CSS (https://nativebase.io/)
+
+
+REACT-NATIVE ADVANCED
+---------------------------------
+react-navigation = untuk interaksi diantara react-native screens || agar bisa banyak routingan || mengijinkan agar bisa banyak screen
+stack-navigation = 
+
+
+STEP BY STEP
+---------------------------------
+01. download expo go (ANDROID)
+02. npx create-expo-app my-app
+03. cd my-app && npm start
+04. npm i native-base (framework for react-native)
+05. npm i -g expo-cli (install expo cli)
+05. expo install react-native-svg@12.1.1 react-native-safe-area-context@3.3.2
+06. expo install @expo-google-fonts/poppins expo-font expo-app-loading (Install font poppins)
+07. npm install @react-navigation/native || https://reactnavigation.org/
+08. npm install react-native-screens react-native-safe-area-context
+09. npm install @react-navigation/stack
+10. npm install @react-navigation/bottom-tabs
+11. npm i react-native-flash-message (show status)
